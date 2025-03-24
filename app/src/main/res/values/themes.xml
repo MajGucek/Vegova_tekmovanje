@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Vegova_tekmovanje" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="dark_grey">#333333</color>
+    <color name="dodger_blue">#1E90FF</color>
+    <color name="secondary_color">#FF6347</color> <!-- A secondary color (Tomato) -->
+</resources>
